@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reidextreme/static/css/main.68dea2e4.chunk.css",
-    "main.js": "/reidextreme/static/js/main.1ecf3945.chunk.js",
-    "main.js.map": "/reidextreme/static/js/main.1ecf3945.chunk.js.map",
-    "runtime-main.js": "/reidextreme/static/js/runtime-main.1ae9ed3d.js",
-    "runtime-main.js.map": "/reidextreme/static/js/runtime-main.1ae9ed3d.js.map",
-    "static/js/2.8f6d3678.chunk.js": "/reidextreme/static/js/2.8f6d3678.chunk.js",
-    "static/js/2.8f6d3678.chunk.js.map": "/reidextreme/static/js/2.8f6d3678.chunk.js.map",
-    "static/js/3.64b82160.chunk.js": "/reidextreme/static/js/3.64b82160.chunk.js",
-    "static/js/3.64b82160.chunk.js.map": "/reidextreme/static/js/3.64b82160.chunk.js.map",
-    "index.html": "/reidextreme/index.html",
-    "static/css/main.68dea2e4.chunk.css.map": "/reidextreme/static/css/main.68dea2e4.chunk.css.map",
-    "static/js/2.8f6d3678.chunk.js.LICENSE.txt": "/reidextreme/static/js/2.8f6d3678.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reidextreme/static/media/logo.6ce24c58.svg"
+    "main.css": "/reidxtreme/static/css/main.68dea2e4.chunk.css",
+    "main.js": "/reidxtreme/static/js/main.1ecf3945.chunk.js",
+    "main.js.map": "/reidxtreme/static/js/main.1ecf3945.chunk.js.map",
+    "runtime-main.js": "/reidxtreme/static/js/runtime-main.83961f71.js",
+    "runtime-main.js.map": "/reidxtreme/static/js/runtime-main.83961f71.js.map",
+    "static/js/2.8f6d3678.chunk.js": "/reidxtreme/static/js/2.8f6d3678.chunk.js",
+    "static/js/2.8f6d3678.chunk.js.map": "/reidxtreme/static/js/2.8f6d3678.chunk.js.map",
+    "static/js/3.64b82160.chunk.js": "/reidxtreme/static/js/3.64b82160.chunk.js",
+    "static/js/3.64b82160.chunk.js.map": "/reidxtreme/static/js/3.64b82160.chunk.js.map",
+    "index.html": "/reidxtreme/index.html",
+    "static/css/main.68dea2e4.chunk.css.map": "/reidxtreme/static/css/main.68dea2e4.chunk.css.map",
+    "static/js/2.8f6d3678.chunk.js.LICENSE.txt": "/reidxtreme/static/js/2.8f6d3678.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reidxtreme/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ae9ed3d.js",
+    "static/js/runtime-main.83961f71.js",
     "static/js/2.8f6d3678.chunk.js",
     "static/css/main.68dea2e4.chunk.css",
     "static/js/main.1ecf3945.chunk.js"
