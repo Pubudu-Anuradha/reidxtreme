@@ -1,6 +1,6 @@
 import "./App.css";
-import Countdown from "./Countdown";
-import Topbar from "./Topbar";
+import Countdown from "./components/Countdown/Countdown";
+import Topbar from "./components/Topbar/Topbar";
 
 function App() {
   return (
