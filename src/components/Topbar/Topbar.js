@@ -13,12 +13,12 @@ export default function Topbar() {
   return (
     <div className="bar">
       <a className="baritem" href="#countdown">
-        <img height="40px" src={logo} alt="logo" />
-        Reid Extreme 2021
+        <img height="30px" src={logo} alt="logo" />
+        Reid<d>x</d>treme 2021
       </a>
       {Sections.map((Section) => {
         return (
-          <a className="baritem" href={Section.id}>
+          <a className="baritem" href={"#" + Section.id}>
             {Section.name}
           </a>
         );

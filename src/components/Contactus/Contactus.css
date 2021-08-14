@@ -1,0 +1,21 @@
+#contact {
+  background-color: rgb(100, 100, 100);
+  height: max-content;
+  width: 100vw;
+  padding: 20px;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.socials {
+  margin-top: 2rem;
+  display: inline-flex;
+  margin-bottom: 2rem;
+}
+.socials div {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+img {
+  height: 2rem;
+  width: 2rem;
+}

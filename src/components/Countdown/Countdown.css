@@ -8,11 +8,16 @@
 .name {
   font-size: 5vw;
 }
-
-.marg {
+#countdown {
+  height: 90vh;
+  background-color: aliceblue;
+  font-size: 7vw;
   padding-top: 15vh;
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  width: 100%;
+  width: 100vw;
+}
+@media screen and (max-width: 1000px) {
+  #countdown {
+    height: max-content;
+    padding-bottom: 10vh;
+  }
 }

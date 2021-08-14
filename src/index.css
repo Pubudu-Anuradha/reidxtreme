@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Bahiana&display=swap");
+html {
+  scroll-behavior: smooth;
+}
 body {
+  width: 100vw;
+  background-color: silver;
   margin: 0;
-  font-family: "Bahiana", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
-    "Helvetica Neue", cursive;
+  font-family: "Bahiana", cursive;
   /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;*/
@@ -14,4 +17,13 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.marg {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+d {
+  color: maroon;
 }

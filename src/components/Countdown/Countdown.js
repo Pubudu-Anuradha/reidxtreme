@@ -25,33 +25,34 @@ export default function Countdown() {
     }, 1000);
   });
   return (
-    <div className="marg">
-      <br />
-      <div className="number">
-        {countdown.d < 10 ? "0" : ""}
-        {countdown.d}
+    <div id="countdown">
+      Starting in
+      <div className="marg">
         <br />
-        <div class="name">days</div>
-      </div>
-      <div className="number">
-        {countdown.h < 10 ? "0" : ""}
-        {countdown.h}
-        <br />
-        <div class="name" id="countdown">
-          hours
+        <div className="number">
+          {countdown.d < 10 ? "0" : ""}
+          {countdown.d}
+          <br />
+          <div class="name">days</div>
         </div>
-      </div>
-      <div className="number">
-        {countdown.m < 10 ? "0" : ""}
-        {countdown.m}
-        <br />
-        <div class="name">minutes</div>
-      </div>
-      <div className="number">
-        {countdown.s < 10 ? "0" : ""}
-        {countdown.s}
-        <br />
-        <div class="name">seconds</div>
+        <div className="number">
+          {countdown.h < 10 ? "0" : ""}
+          {countdown.h}
+          <br />
+          <div class="name">hours</div>
+        </div>
+        <div className="number">
+          {countdown.m < 10 ? "0" : ""}
+          {countdown.m}
+          <br />
+          <div class="name">minutes</div>
+        </div>
+        <div className="number">
+          {countdown.s < 10 ? "0" : ""}
+          {countdown.s}
+          <br />
+          <div class="name">seconds</div>
+        </div>
       </div>
     </div>
   );

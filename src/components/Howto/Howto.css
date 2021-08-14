@@ -1,0 +1,31 @@
+#howto {
+  background-color: aliceblue;
+  min-height: 90vh;
+  padding-top: 15vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width: 100vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+}
+#howto h2 {
+  font-size: 5rem;
+  text-align: center;
+  font-family: "Bahiana", cursive;
+}
+#howto .content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80vw;
+}
+li {
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 1000px) {
+  #howto {
+    padding-top: 5vh;
+  }
+}

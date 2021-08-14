@@ -1,23 +1,30 @@
 .bar {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 100vw;
   overflow: hidden;
-  height: 48px;
+  height: max-content;
   padding: 4px;
-  padding-left: 20px;
   display: flex;
-  font-size: 40px;
-  color: white;
+  font-size: 2rem;
   text-decoration: none;
-  background-color: rgb(60, 60, 60);
-  color: beige;
+  background-color: rgb(100, 100, 100);
+}
+.bar a:hover {
+  color: sliver;
 }
 .bar a {
+  margin: auto;
   text-decoration: none;
   color: black;
 }
-.bar .baritem {
+.baritem {
   margin-left: auto;
   margin-right: auto;
+}
+
+@media screen and (max-width: 1000px) {
+  .bar {
+    font-size: 5vw;
+  }
 }
