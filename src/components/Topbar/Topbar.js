@@ -1,6 +1,5 @@
 import React from "react";
 import "./Topbar.css";
-import logo from "./logo.svg";
 
 const Sections = [
   { id: "about", name: "About" },
@@ -13,7 +12,6 @@ export default function Topbar() {
   return (
     <div className="bar">
       <a className="baritem" href="#countdown">
-        <img height="30px" src={logo} alt="logo" />
         Reid<d>x</d>treme 2021
       </a>
       {Sections.map((Section) => {
