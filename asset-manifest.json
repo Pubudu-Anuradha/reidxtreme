@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reidxtreme/static/css/main.68dea2e4.chunk.css",
-    "main.js": "/reidxtreme/static/js/main.1ecf3945.chunk.js",
-    "main.js.map": "/reidxtreme/static/js/main.1ecf3945.chunk.js.map",
-    "runtime-main.js": "/reidxtreme/static/js/runtime-main.83961f71.js",
-    "runtime-main.js.map": "/reidxtreme/static/js/runtime-main.83961f71.js.map",
+    "main.css": "/reidxtreme/static/css/main.65b48c66.chunk.css",
+    "main.js": "/reidxtreme/static/js/main.df603dd0.chunk.js",
+    "main.js.map": "/reidxtreme/static/js/main.df603dd0.chunk.js.map",
+    "runtime-main.js": "/reidxtreme/static/js/runtime-main.ede2ef17.js",
+    "runtime-main.js.map": "/reidxtreme/static/js/runtime-main.ede2ef17.js.map",
     "static/js/2.8f6d3678.chunk.js": "/reidxtreme/static/js/2.8f6d3678.chunk.js",
     "static/js/2.8f6d3678.chunk.js.map": "/reidxtreme/static/js/2.8f6d3678.chunk.js.map",
-    "static/js/3.64b82160.chunk.js": "/reidxtreme/static/js/3.64b82160.chunk.js",
-    "static/js/3.64b82160.chunk.js.map": "/reidxtreme/static/js/3.64b82160.chunk.js.map",
+    "static/js/3.712f0292.chunk.js": "/reidxtreme/static/js/3.712f0292.chunk.js",
+    "static/js/3.712f0292.chunk.js.map": "/reidxtreme/static/js/3.712f0292.chunk.js.map",
     "index.html": "/reidxtreme/index.html",
-    "static/css/main.68dea2e4.chunk.css.map": "/reidxtreme/static/css/main.68dea2e4.chunk.css.map",
+    "static/css/main.65b48c66.chunk.css.map": "/reidxtreme/static/css/main.65b48c66.chunk.css.map",
     "static/js/2.8f6d3678.chunk.js.LICENSE.txt": "/reidxtreme/static/js/2.8f6d3678.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/reidxtreme/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83961f71.js",
+    "static/js/runtime-main.ede2ef17.js",
     "static/js/2.8f6d3678.chunk.js",
-    "static/css/main.68dea2e4.chunk.css",
-    "static/js/main.1ecf3945.chunk.js"
+    "static/css/main.65b48c66.chunk.css",
+    "static/js/main.df603dd0.chunk.js"
   ]
 }
