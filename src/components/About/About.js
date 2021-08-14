@@ -5,7 +5,7 @@ function About() {
   return (
     <div id="about" class="marg">
       <h2>
-        Reid<d>X</d>treme 2021
+        Reid<d>X</d>treme 2.0
       </h2>
       <br />
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

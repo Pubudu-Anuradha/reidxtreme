@@ -12,7 +12,7 @@ export default function Topbar() {
   return (
     <div className="bar">
       <a className="baritem" href="#countdown">
-        Reid<d>x</d>treme 2021
+        Reid<d>x</d>treme 2.0
       </a>
       {Sections.map((Section) => {
         return (
